@@ -37,6 +37,10 @@ section {
     margin-bottom: 20px;
 }
 
+.project p{
+    line-height: 20px;
+}
+
 img {
     max-width: 50%;
     height: auto;
